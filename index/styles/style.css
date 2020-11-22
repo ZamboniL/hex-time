@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro&display=swap');
+
+#time {
+    display: grid;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock {
+    font-family: 'Ubuntu Mono', monospace;
+    color: rgb(233, 233, 233);
+    font-size: 5em;
+}
